@@ -1,14 +1,14 @@
 # "Six Cities" React/Redux portfolio project
 
 Main technologies:
--React
--Redux
--TypeScript
--Axios
--ReactRouter
--Leaflet
--Jest
--Enzyme
+ - React
+ - Redux
+ - TypeScript
+ - Axios
+ - ReactRouter
+ - Leaflet
+ - Jest
+ - Enzyme
 
 ## Projects npm scripts:
 
